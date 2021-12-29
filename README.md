@@ -15,3 +15,8 @@ elif ret<4 and ret >3.5:
 avg=(new_df['Product_Name'] +'Average')
 else:
 neg=(new_df['Product_Name'] +'Not good')
+
+![alt text](https://github.com/avanishsingh07/Flipkart_scraper/blob/main/download%20(6).png?raw=true)
+
+![alt text](https://github.com/avanishsingh07/Flipkart_scraper/blob/main/download%20(5).png?raw=true)
+
